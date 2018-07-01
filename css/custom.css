@@ -1,0 +1,12 @@
+.container {
+    width: auto;
+    max-width: 880px;
+    padding: 0 15px;
+
+}
+a {
+    color: white;
+}
+a:hover {
+    color: darkslategrey;
+}

@@ -2,11 +2,12 @@
     width: auto;
     max-width: 880px;
     padding: 0 15px;
-
 }
-a {
+
+.blueBGLinks a {
     color: white;
 }
-a:hover {
+
+.blueBGLinks a:hover {
     color: darkslategrey;
 }
